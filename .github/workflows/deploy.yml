@@ -5,7 +5,7 @@ on:
 
 env:
   applicationfolder: spring-boot-hello-world-example
-  AWS_REGION: arn:aws:iam::182518505727:role/CodeDeployRoleforGitHub
+  AWS_REGION: us-west-1
   S3BUCKET: codedeploystack-webappdeploymentbucket-puhtw9wol636 
 
 
